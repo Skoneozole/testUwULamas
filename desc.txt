@@ -1,31 +1,4 @@
 {
   "titre": "description",
-  "description": "texte uwu
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-f
-ff
-f
-f
-f
-f
-f
-f
-f
-f"
+  "description": "texte uwu\n\n\n\n\n\n\n\n\n\n\n\n\n"
 }
