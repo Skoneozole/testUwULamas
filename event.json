@@ -1,18 +1,3 @@
 {
-    "event": [
-        {
-            "nom": "Bonjours les amis",
-            "date": "2025-05-31",
-            "desc": "ndjcajcnakjcnacna",
-            "fulldesc": "c la fete a la kenouille",
-            "image": "https://www.ladn.eu/wp-content/uploads/2025/04/steve-1200x630.jpg"
-        },
-        {
-            "nom": "kncajlzdcnjazcnkajcnakzjcnkazcnazckjannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
-            "date": "2025-05-23",
-            "desc": "al,c laclazncazncacnacac",
-            "fulldesc": "xzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzks akzc akjzcna",
-            "image": "file://C:/Users/skone/Desktop/stage/site/logiciel gestion/repo_temp/image/kncajlzdcnjazcnkajcnakzjcnkazcnazckjannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.jpg"
-        }
-    ]
+    "event": []
 }
