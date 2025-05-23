@@ -2,10 +2,10 @@
     "event": [
         {
             "nom": "test",
-            "date": "2025-05-23",
+            "date": "2025-05-31",
             "desc": "ssssss",
             "fulldesc": "ssssssszzzzzzzz",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Skoneozole/testUwULamas/main/image/test.png"
         }
     ]
 }
